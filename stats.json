@@ -17,16 +17,16 @@
       "component---src-templates-blog-post-js-76ae0d6c28b0fccf9e69.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-938551403d4b62f26098.js",
-      "component---src-layouts-index-js-938551403d4b62f26098.js.map"
+      "component---src-layouts-index-js-fca9e1efee0fd3553716.js",
+      "component---src-layouts-index-js-fca9e1efee0fd3553716.js.map"
     ],
     "path---index": [
-      "path---index-bae1f2e1f436d9cd3a14.js",
-      "path---index-bae1f2e1f436d9cd3a14.js.map"
+      "path---index-138e2f13a1c3f7a71079.js",
+      "path---index-138e2f13a1c3f7a71079.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-1f78226e3fc4895d7f4b.js",
-      "path---hello-world-1f78226e3fc4895d7f4b.js.map"
+      "path---hello-world-37bd46f28127844d953e.js",
+      "path---hello-world-37bd46f28127844d953e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -44,9 +44,13 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---hello-world-copy": [
+      "path---hello-world-copy-81f10bb391867991f107.js",
+      "path---hello-world-copy-81f10bb391867991f107.js.map"
+    ],
     "app": [
-      "app-f0b4b810845cbd31129e.js",
-      "app-f0b4b810845cbd31129e.js.map"
+      "app-0535bca5b808f6d68b35.js",
+      "app-0535bca5b808f6d68b35.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
