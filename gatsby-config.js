@@ -3,7 +3,7 @@ module.exports = {
     title: 'John Grindall',
     author: 'John Grindall',
     description: 'John Grindall.',
-    siteUrl: 'http://johngrindall.github.io/',
+    siteUrl: 'http://jgrindall.github.io/',
   },
   pathPrefix: '/',
   plugins: [
@@ -38,12 +38,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`
