@@ -15,7 +15,7 @@ class Template extends React.Component {
       >
         <h1>
           <Link>
-            Gatsby Starter Blog
+            John Grindall
           </Link>
         </h1>
         {children()}

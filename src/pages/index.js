@@ -13,14 +13,16 @@ class BlogIndex extends React.Component {
         <Helmet title={siteTitle} />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
+          const thumbnail = get(node, 'frontmatter.thumbnail') || "www.images/image.png"
           return (
             <div key={node.fields.slug}>
               <h3>
-                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
-                  {title}
-                </Link>
+                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
               </h3>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <div style={{ clear:"both" }}>
+                <img style={{ float:"left", margin:"10px" }} width="200px" src={thumbnail} />
+                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              </div>
             </div>
           )
         })}
@@ -46,8 +48,9 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
-            title
+            title,
+            thumbnail,
+            thumbnails2
           }
         }
       }
