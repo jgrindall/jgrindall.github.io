@@ -1,8 +1,28 @@
 {
   "assetsByChunkName": {
+    "path---logotacular": [
+      "path---logotacular-3a77197593c44ecc5dde.js",
+      "path---logotacular-3a77197593c44ecc5dde.js.map"
+    ],
+    "path---shockwaves": [
+      "path---shockwaves-0a4ff5e40b6cd767b26c.js",
+      "path---shockwaves-0a4ff5e40b6cd767b26c.js.map"
+    ],
+    "path---msc": [
+      "path---msc-a2daf8a26da67c741dc4.js",
+      "path---msc-a2daf8a26da67c741dc4.js.map"
+    ],
+    "path---rtm": [
+      "path---rtm-97bec9384f0f95339fd2.js",
+      "path---rtm-97bec9384f0f95339fd2.js.map"
+    ],
+    "path---powerfourinarow": [
+      "path---powerfourinarow-5dc29cd56d36fa6c3eb6.js",
+      "path---powerfourinarow-5dc29cd56d36fa6c3eb6.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d2afb71734dbd4bc4c00.js",
-      "component---src-pages-index-js-d2afb71734dbd4bc4c00.js.map"
+      "component---src-pages-index-js-1347d7e042bf8aa0a09b.js",
+      "component---src-pages-index-js-1347d7e042bf8aa0a09b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -13,20 +33,20 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-76ae0d6c28b0fccf9e69.js",
-      "component---src-templates-blog-post-js-76ae0d6c28b0fccf9e69.js.map"
+      "component---src-templates-blog-post-js-921e6c00d7e2fe6090a9.js",
+      "component---src-templates-blog-post-js-921e6c00d7e2fe6090a9.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-fca9e1efee0fd3553716.js",
       "component---src-layouts-index-js-fca9e1efee0fd3553716.js.map"
     ],
-    "path---index": [
-      "path---index-138e2f13a1c3f7a71079.js",
-      "path---index-138e2f13a1c3f7a71079.js.map"
+    "path---simitri": [
+      "path---simitri-50076778104348c0b040.js",
+      "path---simitri-50076778104348c0b040.js.map"
     ],
-    "path---hello-world": [
-      "path---hello-world-37bd46f28127844d953e.js",
-      "path---hello-world-37bd46f28127844d953e.js.map"
+    "path---index": [
+      "path---index-ff097559e7f624006e4f.js",
+      "path---index-ff097559e7f624006e4f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -34,23 +54,35 @@
     ],
     "commons": [
       "commons-6e82eaae3f56c620a9ec.js",
-      "commons-6e82eaae3f56c620a9ec.js.map"
+      "build-js-styles.css",
+      "commons-6e82eaae3f56c620a9ec.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---simple": [
+      "path---simple-2cadba54c62a3ffb47e8.js",
+      "path---simple-2cadba54c62a3ffb47e8.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---hello-world-copy": [
-      "path---hello-world-copy-81f10bb391867991f107.js",
-      "path---hello-world-copy-81f10bb391867991f107.js.map"
+    "path---hottopics": [
+      "path---hottopics-8409bc0afe8a9d9e8232.js",
+      "path---hottopics-8409bc0afe8a9d9e8232.js.map"
     ],
     "app": [
-      "app-0535bca5b808f6d68b35.js",
-      "app-0535bca5b808f6d68b35.js.map"
+      "app-5bb00073eb3975eb2310.js",
+      "build-js-styles.css",
+      "app-5bb00073eb3975eb2310.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---heymath": [
+      "path---heymath-c20b9d0034d7fbb54030.js",
+      "path---heymath-c20b9d0034d7fbb54030.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
