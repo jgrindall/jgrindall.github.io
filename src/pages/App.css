@@ -1,0 +1,13 @@
+.react-slideshow-container .nav{
+	font-family: sans;
+	opacity: 0.35;
+    font-size: 13px;
+}
+
+.react-slideshow-container .nav:first-of-type{
+	margin-right:-35px;
+}
+
+.react-slideshow-container .nav:last-of-type{
+	margin-left: -35px;
+}

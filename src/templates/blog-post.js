@@ -4,26 +4,20 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import { Fade } from 'react-slideshow-image';
 
-const IMAGES = [
-  'https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg',
-  'https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg',
-  'https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg'
-];
-
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    console.log(this.props);
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     return (
-      <div>
+      <div style={{clear:"both"}}>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <h1>{post.frontmatter.title}</h1>
         <Fade
-          images={post.frontmatter.thumbnails2 || IMAGES}
+          images={post.frontmatter.thumbnails2 || []}
           duration={2500}
           transitionDuration={500}
         />
-        <p>t2 {post.frontmatter.thumbnails2}</p>
         <p
           style={{
             display: 'block'

@@ -1,28 +1,10 @@
 ---
 title: Simtri
-date: "2015-05-01T22:12:03.284Z"
+thumbnail: https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg
 thumbnails2:
-  - apple
-  - banana
-  - orange
+  - /img/simitri/ss4.png
+date: "2015-05-01T22:12:03.284Z"
 ---
-
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
 
 Simitri
 Explore the beauty of mathematics with &#8217;Simitri&#8217;, an iPad app which lets you create beautiful colourful patterns based on simple mathematical rules.
@@ -35,8 +17,9 @@ See examples of the beauty of symmetry and mathematics in the decorative arts an
 Draw your own patterns using a choice of templates and colours
 Save your designs, or post your designs to Facebook or Twitter
 Submit your designs to the public gallery for everyone else to see!
- 
- 
+
+
+
 Privacy policy
 This application does not collect any personal information from users apart from the country you live in. It does not collect your name, email address or any other piece of personally identifiable information.
 This application asks for your country only if you chose to submit your designs to the Gallery.

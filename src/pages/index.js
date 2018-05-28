@@ -2,20 +2,33 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
+import { Fade } from 'react-slideshow-image';
+import './App.css';
+import ipad1 from "../../static/img/logo/ss1.png";
+import ipad2 from "../../static/img/simitri/ss2.png";
 
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
+    const IMAGES = [
+      ipad1,
+      ipad2
+    ];
 
     return (
       <div>
         <Helmet title={siteTitle} />
+        <Fade
+          images={IMAGES}
+          duration={7500}
+          transitionDuration={1000}
+        />
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
-          const thumbnail = get(node, 'frontmatter.thumbnail') || "www.images/image.png"
+          const thumbnail = get(node, 'frontmatter.thumbnail')
           return (
-            <div key={node.fields.slug}>
+            <div style={{clear:"both"}} key={node.fields.slug}>
               <h3>
                 <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
               </h3>

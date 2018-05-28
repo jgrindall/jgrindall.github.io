@@ -1,10 +1,16 @@
 ---
 title: Power
 date: "2015-05-01T22:12:03.284Z"
+thumbnail: https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg
 thumbnails2:
-  - apple
-  - banana
-  - orange
+  - https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg
+  - https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg
+  - https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg
+  - https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg
+  - https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg
+  - https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg
+  - https://i.ytimg.com/vi/SfLV8hD7zX4/maxresdefault.jpg
+date: "2015-05-01T22:12:03.284Z"
 ---
 
 This is my first post on my new fake blog! How exciting!
