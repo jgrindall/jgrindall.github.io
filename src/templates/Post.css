@@ -1,0 +1,18 @@
+.react-slideshow-container .images-wrap < div{
+	text-align: center;
+}
+
+.react-slideshow-fade-wrapper .images-wrap div{
+	text-align: center;
+	background: white;
+}
+
+a{
+	background-image:none;
+}
+
+a.centre{
+	display: block;
+	width:100%;
+	text-align: center;
+}

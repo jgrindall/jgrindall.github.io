@@ -22,6 +22,9 @@ class Template extends React.Component {
               boxShadow: 'none',
               textDecoration: 'none',
               color: 'inherit',
+              textDecoration:'none',
+              backgroundImage:'none',
+              color:'#7e7777'
             }}
             to={'/'}
           >
@@ -41,10 +44,13 @@ class Template extends React.Component {
               boxShadow: 'none',
               textDecoration: 'none',
               color: 'inherit',
+              color:'#7e7777',
+              textDecoration:'none',
+              backgroundImage:'none'
             }}
             to={'/'}
           >
-            John Grindall
+            &lt;&nbsp;&nbsp;Home
           </Link>
         </h3>
       )

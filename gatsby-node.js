@@ -21,7 +21,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                   frontmatter {
                     title,
                     thumbnail,
-                    thumbnails2
+                    thumbnails2,
+                    color
                   }
                 }
               }

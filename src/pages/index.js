@@ -6,6 +6,7 @@ import { Fade } from 'react-slideshow-image';
 import './App.css';
 import ipad1 from "../../static/img/logo/ss1.png";
 import ipad2 from "../../static/img/simitri/ss2.png";
+import ipad3 from "../../static/img/rtm/slide1.png";
 
 class BlogIndex extends React.Component {
   render() {
@@ -13,7 +14,8 @@ class BlogIndex extends React.Component {
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
     const IMAGES = [
       ipad1,
-      ipad2
+      ipad2,
+      ipad3
     ];
 
     return (
@@ -27,13 +29,14 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           const thumbnail = get(node, 'frontmatter.thumbnail')
+          const color = get(node, 'frontmatter.color')
           return (
-            <div style={{clear:"both"}} key={node.fields.slug}>
-              <h3>
+            <div className={'excerpt color-' + color} style={{clear:"both"}} key={node.fields.slug}>
+              <h3 style={{"marginTop":"4rem"}}>
                 <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
               </h3>
               <div style={{ clear:"both" }}>
-                <img style={{ float:"left", margin:"10px" }} width="200px" src={thumbnail} />
+                <img style={{ float:"left", margin:"10px", "margin-bottom":"30px" }} width="200px" src={thumbnail} />
                 <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
               </div>
             </div>
@@ -56,14 +59,15 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
-          excerpt
+          excerpt(pruneLength: 225)
           fields {
             slug
           }
           frontmatter {
             title,
             thumbnail,
-            thumbnails2
+            thumbnails2,
+            color
           }
         }
       }
