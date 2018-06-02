@@ -60,17 +60,3 @@ Use Logotacular to learn about:
 ##Support
 We&#8217;d love to hear what you think about Logotacular!
 For support using the app, for more information, to suggest improvements, report bugs or tell us how you or your students used the app, please contact john.grindall@gmail.com
-
-Logotacular
-Logotacular is a web and iPad app designed to introduce novices to programming and geometry. I built a Flex version using RobotLegs and antlr, with a CodeIgniter backend, and a Javascript version using Backbone.js and easel.js, with a node/mongodb backend, Facebook login and a parser using peg.js.
-
-<hr/>
-
-Actionscript 3 Logo interpreter
-An Actionscript 3 Logo interpreter, using using Flex 3 and the RobotLegs framework, with the parser written using antlr, a backend using CodeIgniter (PHP) (PHP) and an AIR desktop version also.
-Logo interpreter written in Flex, using antlr to generate the Parser and RobotLegs for MVCS.
-File saving and loading implemented using WebService (for web) and Adobe AIR FileSystem (for desktop), disabled in the app below.
-Src on github 
-Parser library on github 
-
- 

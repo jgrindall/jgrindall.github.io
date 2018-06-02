@@ -1,0 +1,33 @@
+2simple - links
+
+simitri -app store button
+
+
+main images
+
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm1.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm2.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm3.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm4.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm5.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm6.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm7.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm8.png" style="width: 32%;"/></a>
+<a href="/img/logo/ss10.png"><img src="/img/pm/pm9.png" style="width: 32%;"/></a>
+
+
+
+
+Logotacular
+Logotacular is a web and iPad app designed to introduce novices to programming and geometry. I built a Flex version using RobotLegs and antlr, with a CodeIgniter backend, and a Javascript version using Backbone.js and easel.js, with a node/mongodb backend, Facebook login and a parser using peg.js.
+
+<hr/>
+
+Actionscript 3 Logo interpreter
+An Actionscript 3 Logo interpreter, using using Flex 3 and the RobotLegs framework, with the parser written using antlr, a backend using CodeIgniter (PHP) (PHP) and an AIR desktop version also.
+Logo interpreter written in Flex, using antlr to generate the Parser and RobotLegs for MVCS.
+File saving and loading implemented using WebService (for web) and Adobe AIR FileSystem (for desktop), disabled in the app below.
+Src on github 
+Parser library on github 
+
+ 

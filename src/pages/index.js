@@ -4,20 +4,12 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import { Fade } from 'react-slideshow-image';
 import './App.css';
-import ipad1 from "../../static/img/logo/ss1.png";
-import ipad2 from "../../static/img/simitri/ss2.png";
-import ipad3 from "../../static/img/rtm/slide1.png";
+import IMAGES from "./imgs.js";
 
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
-    const IMAGES = [
-      ipad1,
-      ipad2,
-      ipad3
-    ];
-
     return (
       <div>
         <Helmet title={siteTitle} />
@@ -31,12 +23,12 @@ class BlogIndex extends React.Component {
           const thumbnail = get(node, 'frontmatter.thumbnail')
           const color = get(node, 'frontmatter.color')
           return (
-            <div className={'excerpt color-' + color} style={{clear:"both"}} key={node.fields.slug}>
-              <h3 style={{"marginTop":"4rem"}}>
-                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
+            <div className={'excerpt color-' + color} styles={{clear:"both"}} key={node.fields.slug}>
+              <h3 styles={{marginTop:"4rem"}}>
+                <Link styles={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
               </h3>
               <div style={{ clear:"both" }}>
-                <img style={{ float:"left", margin:"10px", "margin-bottom":"30px" }} width="200px" src={thumbnail} />
+                <img style={{ float:"left", margin:"10px", marginBottom:"30px" }} width="200px" src={thumbnail} />
                 <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
               </div>
             </div>

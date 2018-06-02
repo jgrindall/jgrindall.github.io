@@ -42,10 +42,4 @@ My application allowed a list of users to share one robot, to write Logo and exe
 <a href="/img/logo/ss10.png"><img src="/img/lego/wire.png" style="width: 32%;"/></a>
 
 
-
-All source code (Java) is available here, in 6 separate NetBeans projects for the Logo interpreter, front end, back end, libraries and code to run on the robot itself.
-
-The final project report (pdf) is available here
-
-MSc dissertation
-src on github
+You can read the final report <a href="https://github.com/jgrindall/msc_univ_westminster/blob/master/project_report/msc_report.pdf">here</a>, or check out the source code <a href="https://github.com/jgrindall/msc_univ_westminster">here</a>.
