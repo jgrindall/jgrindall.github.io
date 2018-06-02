@@ -1,14 +1,14 @@
 ---
-title: 2Simple/Purple Mash
+title: Purple Mash
 thumbnail: /img/pm/pm1.png
 color: purple2
 thumbnails2:
   - /img/pm/pm1.png
-  - /img/pm/pm2.png
   - /img/pm/pm3.png
   - /img/pm/pm4.png
-  - /img/pm/pm5.png
   - /img/pm/pm6.png
+  - /img/pm/pm7.png
+  - /img/pm/pm8.png
 date: "2018-01-30"
 ---
 
