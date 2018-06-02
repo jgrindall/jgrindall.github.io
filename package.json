@@ -23,7 +23,8 @@
     "lodash": "^4.17.5",
     "react-slideshow-image": "^0.2.2",
     "typography-theme-twin-peaks": "^0.15.11",
-    "typography-theme-wordpress-2016": "^0.15.10"
+    "typography-theme-wordpress-2016": "^0.15.10",
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1",

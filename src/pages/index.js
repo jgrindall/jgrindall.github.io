@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { Fade } from 'react-slideshow-image';
 import './App.css';
 import IMAGES from "./imgs.js";
+import _ from "underscore";
 
 class BlogIndex extends React.Component {
   render() {
@@ -14,18 +15,20 @@ class BlogIndex extends React.Component {
       <div>
         <Helmet title={siteTitle} />
         <Fade
-          images={IMAGES}
+          images={_.shuffle(IMAGES)}
           duration={7500}
           transitionDuration={1000}
         />
+
+
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           const thumbnail = get(node, 'frontmatter.thumbnail')
           const color = get(node, 'frontmatter.color')
           return (
-            <div className={'excerpt color-' + color} styles={{clear:"both"}} key={node.fields.slug}>
-              <h3 styles={{marginTop:"4rem"}}>
-                <Link styles={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
+            <div className={'excerpt color-' + color} style={{clear:"both"}} key={node.fields.slug}>
+              <h3 style={{marginTop:"4rem"}}>
+                <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>{title}</Link>
               </h3>
               <div style={{ clear:"both" }}>
                 <img style={{ float:"left", margin:"10px", marginBottom:"30px" }} width="200px" src={thumbnail} />
@@ -34,6 +37,7 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+
       </div>
     )
   }

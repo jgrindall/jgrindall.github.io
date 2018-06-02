@@ -15,6 +15,11 @@ thumbnails2:
 date: "2018-01-20"
 ---
 
+<a class='centre' href="https://itunes.apple.com/gb/app/simitri/id895329626?mt=8">
+	<img src="/img/logo/app_store_badge.png" />
+</a>
+
+
 Explore the beauty of mathematics with &#8217;Simitri&#8217;, an iPad app which lets you create beautiful colourful patterns based on simple mathematical rules. This app introduces transformations and symmetry groups (&#8217;
 wallpaper groups&#8217;) and then allows you to draw your own patterns using your chosen symmetries.
 It is an interesting fact that there are precisely seventeen symmetry groups in two dimensions, and this app explains each one with interactive animations and examples from art and archaeology.

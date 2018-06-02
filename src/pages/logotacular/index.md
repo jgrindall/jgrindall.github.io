@@ -12,7 +12,7 @@ thumbnails2:
 date: "2018-01-25"
 ---
 
-<a class='centre' href="/img/logo/app_store_badge.png">
+<a class='centre' href="https://itunes.apple.com/gb/app/logotacular/id899728048?mt=8">
 	<img src="/img/logo/app_store_badge.png" />
 </a>
 
