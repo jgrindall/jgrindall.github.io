@@ -4,7 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import { Fade } from 'react-slideshow-image';
 import './App.css';
-import IMAGES from "./imgs.js";
+import IMAGES from "../imgs.js";
 import _ from "underscore";
 
 class BlogIndex extends React.Component {
