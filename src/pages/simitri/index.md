@@ -15,7 +15,7 @@ thumbnails2:
 date: "2018-01-20"
 ---
 
-<a class='centre' href="https://itunes.apple.com/gb/app/simitri/id895329626?mt=8">
+<a target="_blank" class='centre' href="https://itunes.apple.com/gb/app/simitri/id895329626?mt=8">
 	<img src="/img/logo/app_store_badge.png" />
 </a>
 
@@ -35,15 +35,15 @@ When you&#8217;re happy with your artwork you can save the images to your iPad, 
 * Save your designs, or post your designs to Facebook or Twitter
 * Submit your designs to the public gallery for everyone else to see!
 
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad5.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad8.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/simitri/ipad9.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad6.png"><img src="/img/simitri/ipad6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad1.png"><img src="/img/simitri/ipad1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad2.png"><img src="/img/simitri/ipad2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad3.png"><img src="/img/simitri/ipad3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad4.png"><img src="/img/simitri/ipad4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad5.png"><img src="/img/simitri/ipad5.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad7.png"><img src="/img/simitri/ipad7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad8.png"><img src="/img/simitri/ipad8.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/simitri/ipad9.png"><img src="/img/simitri/ipad9.png" style="width: 32%;"/></a>
 
 
 

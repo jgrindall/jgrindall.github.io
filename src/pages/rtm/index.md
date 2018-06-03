@@ -36,15 +36,15 @@ The &#8217;adventure&#8217; mode places each machine in a fantasy world of Mecha
 * Actionscript & MDM Zinc installers
 * Two levels of difficulty
 
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide1.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide4.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide5.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide8.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide10.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide11.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide12.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide13.png"  style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/rtm/slide6.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide1.png"><img src="/img/rtm/slide1.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide4.png"><img src="/img/rtm/slide4.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide5.png"><img src="/img/rtm/slide5.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide8.png"><img src="/img/rtm/slide8.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide10.png"><img src="/img/rtm/slide10.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide11.png"><img src="/img/rtm/slide11.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide12.png"><img src="/img/rtm/slide12.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide13.png"><img src="/img/rtm/slide13.png"  style="width: 32%;"/></a>
+<a target="_blank" href="/img/rtm/slide6.png"><img src="/img/rtm/slide6.png"  style="width: 32%;"/></a>
 
 
 `youtube:https://www.youtube.com/embed/oaKW7qtmbX0`

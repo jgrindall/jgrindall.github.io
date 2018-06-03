@@ -27,12 +27,12 @@ Available on the Apple App Store
 >Educational software company HeyMath! today announced the launch of "HeyMath! from Singapore"&hellip; HeyMath!, an official Partner of the Academy of Singapore Teachers, with 12 years of experience working with some of the top schools in Singapore, brings to the iPad a large video lesson bank and adaptive practice modules for each topic
 
 
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hmfs/slide8.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide1.png"><img src="/img/hmfs/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide2.png"><img src="/img/hmfs/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide3.png"><img src="/img/hmfs/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide4.png"><img src="/img/hmfs/slide4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide7.png"><img src="/img/hmfs/slide7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hmfs/slide8.png"><img src="/img/hmfs/slide8.png" style="width: 32%;"/></a>
 
 <hr/>
 
@@ -43,11 +43,11 @@ Available on the Apple App Store
 fastTest is an adaptive assessment web application, designed for the web and iPad.
 Teachers can create a test using HeyMath!&#8217;s external question bank, and issue it to students. They can also send hand-drawn notes at any time. Students are given a room number, and they take the test. Teachers see the correct/incorrect responses in real time as the test progresses. A report is given to teachers and students at the conclusion of the test.
 
-<a href="/img/logo/ss10.png"><img src="/img/fastest/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/fastest/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/fastest/slide3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/fastest/slide4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/fastest/slide6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/fastest/slide1.png"><img src="/img/fastest/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/fastest/slide2.png"><img src="/img/fastest/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/fastest/slide3.png"><img src="/img/fastest/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/fastest/slide5.png"><img src="/img/fastest/slide4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/fastest/slide6.png"><img src="/img/fastest/slide6.png" style="width: 32%;"/></a>
 
 
 * Backbone.js

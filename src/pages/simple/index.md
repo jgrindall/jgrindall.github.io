@@ -18,15 +18,15 @@ Using Purple Mash's open-ended tools, children can create expressive multi-media
 
 Part of a brilliant team of developers, designers and educationalists, I mostly work on the front-end applications, many of which are built using Backbone.js, createjs, Vue.js and WebGL (Three.js and Babylon.js)
 
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm5.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm8.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/pm/pm9.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm1.png"><img src="/img/pm/pm1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm2.png"><img src="/img/pm/pm2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm3.png"><img src="/img/pm/pm3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/p4.png"><img src="/img/pm/pm4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm5.png"><img src="/img/pm/pm5.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm6.png"><img src="/img/pm/pm6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm7.png"><img src="/img/pm/pm7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/pm8.png"><img src="/img/pm/pm8.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/pm/pm9.png"><img src="/img/pm/pm9.png" style="width: 32%;"/></a>
 
 
 <hr/>

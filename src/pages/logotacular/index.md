@@ -12,7 +12,7 @@ thumbnails2:
 date: "2018-01-25"
 ---
 
-<a class='centre' href="https://itunes.apple.com/gb/app/logotacular/id899728048?mt=8">
+<a target="_blank" class='centre' href="https://itunes.apple.com/gb/app/logotacular/id899728048?mt=8">
 	<img src="/img/logo/app_store_badge.png" />
 </a>
 
@@ -41,12 +41,12 @@ Use Logotacular to learn about:
 
 >Logo was created in 1967 by Wally Feurzeig and Seymour Papert - researchers at MIT university. Their goal was to create an easy to learn application where kids could play with words and the structure of sentences. Later versions of Logo included on screen graphics and the forward and right commands to move an on-screen &#8217;turtle&#8217; around the screen. In 1969, a physical robot was designed which would move across the floor tracing its path with a pen. Seymour Papert pioneered its use in school classrooms as an educational system in the early 1970&#8217;s.
 
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss10.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/logo/ss12.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss10.png"><img src="/img/logo/ss10.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss3.png"><img src="/img/logo/ss3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss4.png"><img src="/img/logo/ss4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss6.png"><img src="/img/logo/ss6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss7.png"><img src="/img/logo/ss7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/logo/ss12.png"><img src="/img/logo/ss12.png" style="width: 32%;"/></a>
 
 
 ##Privacy policy

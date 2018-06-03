@@ -31,15 +31,15 @@ My application allowed a list of users to share one robot, to write Logo and exe
  * Lego Mindstorms robot re-flashed with Lejos (Tiny Java VM)
  * Sockets and bluetooth
 
-<a href="/img/logo/ss10.png"><img src="/img/lego/javacc.jpg" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/lego2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/lego3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/parsetree2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/robot.jpg" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/slide4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/slide6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/lego/wire.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/javacc.jpg"><img src="/img/lego/javacc.jpg" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/lego2.png"><img src="/img/lego/lego2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/lego3.png"><img src="/img/lego/lego3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/parsetree2.png"><img src="/img/lego/parsetree2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/robot.jpg"><img src="/img/lego/robot.jpg" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/slide2.png"><img src="/img/lego/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/slide4.png"><img src="/img/lego/slide4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/slide6.png"><img src="/img/lego/slide6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/lego/wire.png"><img src="/img/lego/wire.png" style="width: 32%;"/></a>
 
 
-You can read the final report <a href="https://github.com/jgrindall/msc_univ_westminster/blob/master/project_report/msc_report.pdf">here</a>, or check out the source code <a href="https://github.com/jgrindall/msc_univ_westminster">here</a>.
+You can read the <a target="_blank" href="https://github.com/jgrindall/msc_univ_westminster/blob/master/project_report/msc_report.pdf">final report here</a>, or check out the  <a target="_blank" href="https://github.com/jgrindall/msc_univ_westminster">source code here</a>.

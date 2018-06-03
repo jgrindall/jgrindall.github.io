@@ -20,15 +20,15 @@ Discussion starters to get the whole class talking. Develop children’s compreh
 ><cite>http://shop.scholastic.co.uk/products/75483</cite>
 
 
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide5.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/shockwaves/slide6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/maryg/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/maryg/slide3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/mathsreaders/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide7.png"><img src="/img/shockwaves/slide7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide2.png"><img src="/img/shockwaves/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide1.png"><img src="/img/shockwaves/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide4.png"><img src="/img/shockwaves/slide4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide5.png"><img src="/img/shockwaves/slide5.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide6.png"><img src="/img/shockwaves/slide6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide2.png"><img src="/img/maryg/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide3.png"><img src="/img/maryg/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/shockwaves/slide1.png"><img src="/img/mathsreaders/slide1.png" style="width: 32%;"/></a>
 
 * My own flip-book engine written in Actionscript 3
 * Clickable &#8217;Hot spots&#8217; on each page link to interactive components - video, audio, text pop up boxes and animations

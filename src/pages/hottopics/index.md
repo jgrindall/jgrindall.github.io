@@ -17,15 +17,15 @@ Hot topics is a set of nine CD-ROM products published by Scholastic, which provi
 * Actionscript 3, using Flex and PureMVC
 * Wrapped with MDM Zinc to create Windows and Mac installable executables
 
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide3.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide4.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide6.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide7.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide8.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide9.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/hottopics/slide11.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide1.png"><img src="/img/hottopics/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide2.png"><img src="/img/hottopics/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide3.png"><img src="/img/hottopics/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide4.png"><img src="/img/hottopics/slide4.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide6.png"><img src="/img/hottopics/slide6.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide7.png"><img src="/img/hottopics/slide7.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide8.png"><img src="/img/hottopics/slide8.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide9.png"><img src="/img/hottopics/slide9.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/hottopics/slide11.png"><img src="/img/hottopics/slide11.png" style="width: 32%;"/></a>
 
 <hr/>
 
@@ -39,21 +39,21 @@ These series extend the source code of the Hot Topics project and add extra func
 * Shareable - inside any title installed on your computer, you can access all resources from any other title you have installed.
 
 
-<a href="/img/logo/ss10.png"><img src="/img/datahandling/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/datahandling/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/datahandling/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/datahandling/slide1.png"><img src="/img/datahandling/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/datahandling/slide2.png"><img src="/img/datahandling/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/datahandling/slide3.png"><img src="/img/datahandling/slide3.png" style="width: 32%;"/></a>
 
 > Use ideas from across the curriculum to discover ways of handling data...Each lesson has a maths focus, but draws on subject matter from all aspects of the curriculum, from history and geography to RE and literacy, making data handling a real-life skill that learners can relate to all aspects of their study. There are twelve lessons per book, each covering learning objectives for both maths and the subjects covered in the data. The lesson framework outlines how to teach the lesson, ways to differentiate for learners of varying abilities, and there’s all the data provided along with worksheets to guide you.
 >
-> <cite>http://shop.scholastic.co.uk/series/838</cite>
+> <cite><a target="_blank"  href="http://shop.scholastic.co.uk/series/838">http://shop.scholastic.co.uk/series/838</a></cite>
 
 
 
-<a href="/img/logo/ss10.png"><img src="/img/createanddisplay/slide1.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/createanddisplay/slide2.png" style="width: 32%;"/></a>
-<a href="/img/logo/ss10.png"><img src="/img/createanddisplay/slide3.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/createanddisplay/slide1.png"><img src="/img/createanddisplay/slide1.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/createanddisplay/slide2.png"><img src="/img/createanddisplay/slide2.png" style="width: 32%;"/></a>
+<a target="_blank" href="/img/createanddisplay/slide3.png"><img src="/img/createanddisplay/slide3.png" style="width: 32%;"/></a>
 
 
 > The software includes a full suite of Interactive Whiteboard tools, and lets the teacher adapt the slideshows, upload their own images, or even create entirely new slideshows of their classwork. There is a large image bank on each CD-ROM, as well as videos, planning grids, and activity sheets to support particular themes and displays. Importantly, each title in the series adds to the main resource bank, increasing the amount of digital resources in the series – allowing the user to use resources from every title to create and display exciting and engaging art presentations to their class!
 >
-> <cite>http://shop.scholastic.co.uk/series/867</cite>
+> <cite><a target="_blank"  href="http://shop.scholastic.co.uk/series/867">http://shop.scholastic.co.uk/series/867</a></cite>
