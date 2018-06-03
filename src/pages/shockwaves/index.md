@@ -9,7 +9,7 @@ thumbnails2:
   - /img/shockwaves/slide4.png
   - /img/shockwaves/slide5.png
   - /img/shockwaves/slide6.png
-date: "2015-05-01T22:12:010.284Z"
+date: "2017-12-20"
 ---
 
 A series of engaging and interactive non-fiction books with real ‘turning’ pages and interactive features. Published by Scholastic, to accompany their paper publications. Perfect for sharing on the whiteboard - with embedded videos, animations, informational popups and a glossary - perfect to ensure engaging cross-curricular creative topic-led lessons.

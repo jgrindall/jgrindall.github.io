@@ -14,11 +14,15 @@ class BlogPostTemplate extends React.Component {
       <div className={'post color-' + post.frontmatter.color} style={{clear:"both" ,"marginTop":"30px"}}>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <h1>{post.frontmatter.title}</h1>
+
+        {post.frontmatter.thumbnails2 && post.frontmatter.thumbnails2.length >= 1 &&
         <Fade
           images={post.frontmatter.thumbnails2 || []}
           duration={5000}
           transitionDuration={500}
         />
+        }
+
         <p
           style={{
             display: 'block'

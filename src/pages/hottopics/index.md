@@ -2,7 +2,7 @@
 title: Hot Topics (Scholastic)
 thumbnail: /img/hottopics/slide2.png
 color: purple
-date: "2015-05-01T22:12:05.284Z"
+date: "2017-12-25"
 thumbnails2:
   - /img/hottopics/slide1.png
   - /img/hottopics/slide2.png
