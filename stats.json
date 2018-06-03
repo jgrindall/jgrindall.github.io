@@ -5,8 +5,8 @@
       "path---logotacular-7f598912f79654d63216.js.map"
     ],
     "path---shockwaves": [
-      "path---shockwaves-f7661ed168d39313a234.js",
-      "path---shockwaves-f7661ed168d39313a234.js.map"
+      "path---shockwaves-e946af2c6b81788f5c20.js",
+      "path---shockwaves-e946af2c6b81788f5c20.js.map"
     ],
     "path---msc": [
       "path---msc-8ae0a7308ecb2e13290d.js",
@@ -29,8 +29,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-b3f9a02a484ade115b1e.js",
-      "component---src-templates-blog-post-js-b3f9a02a484ade115b1e.js.map"
+      "component---src-templates-blog-post-js-1e50901f77991da64109.js",
+      "component---src-templates-blog-post-js-1e50901f77991da64109.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-3bd5b01e153237d9a368.js",
@@ -41,12 +41,16 @@
       "path---simitri-d04250e09f0ab14ecdfd.js.map"
     ],
     "path---index": [
-      "path---index-85141613efb0ae0222c1.js",
-      "path---index-85141613efb0ae0222c1.js.map"
+      "path---index-40da8bb50f2398305be5.js",
+      "path---index-40da8bb50f2398305be5.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---flash": [
+      "path---flash-e1d4945cbc5d6b272e93.js",
+      "path---flash-e1d4945cbc5d6b272e93.js.map"
     ],
     "commons": [
       "commons-33a4ef356bd50d18692a.js",
@@ -59,8 +63,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---simple": [
-      "path---simple-4ace6675a9fa319cb0c9.js",
-      "path---simple-4ace6675a9fa319cb0c9.js.map"
+      "path---simple-394aa590d8e039d47c89.js",
+      "path---simple-394aa590d8e039d47c89.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -71,9 +75,9 @@
       "path---hottopics-60e1b5ef4afd66926278.js.map"
     ],
     "app": [
-      "app-1cf3a617f2a273d8cba4.js",
+      "app-9bf2057cf6fa4288fa3a.js",
       "build-js-styles.css",
-      "app-1cf3a617f2a273d8cba4.js.map",
+      "app-9bf2057cf6fa4288fa3a.js.map",
       "build-js-styles.css.map"
     ],
     "path---heymath": [
